@@ -12,12 +12,12 @@
 
 - 👨‍💻 All of my projects are available at [https://vaibhavfirke.github.io/](https://vaibhavfirke.github.io/)
 
-- 💬 Ask me about **RecatJs,JavaScript ,HTML ,CSS ,Nodejs**
+- 💬 Ask me about **RecatJs,JavaScript ,HTML ,CSS ,Nodejs and Mongodb**
 
 - 📫 How to reach me **firkevaibhav11@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing](https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing)
-
+<br/>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavfirke" alt="vaibhavfirke" /></a> </p>
 
