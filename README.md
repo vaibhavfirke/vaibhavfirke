@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing](https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing)
 <br/>
 
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavfirke" alt="vaibhavfirke" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" target="-blank"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavfirke" alt="vaibhavfirke" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
