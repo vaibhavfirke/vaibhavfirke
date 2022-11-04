@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavfirke.github.io/](https://vaibhavfirke.github.io/)
+- 👨‍💻 All of my projects are available at [https://vaibhavfirke.github.io/]<a href="https://vaibhavfirke.github.io/" target="blank">(https://vaibhavfirke.github.io/)<a/>
 
 - 💬 Ask me about **RecatJs,JavaScript ,HTML ,CSS ,Nodejs and Mongodb**
 
