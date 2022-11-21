@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 👨‍💻 All of my projects are available at <a href="https://vaibhavfirke.github.io/" target="blank">Portfollio</a>
+- 👨‍💻 All of my projects are available at <a href="https://vaibhavfirke.github.io/" target="_blank">Portfollio</a>
 
 - 💬 Ask me about **RecatJs,JavaScript ,HTML ,CSS ,Nodejs and Mongodb**
 
 - 📫 How to reach me **firkevaibhav11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing](https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing)
 <br/>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavfirke" alt="vaibhavfirke" /></a> </p>
