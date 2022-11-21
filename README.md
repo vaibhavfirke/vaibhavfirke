@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavfirke&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavfirke" /> </p>
 
-<img align="right" width="500" height="350" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="coding"/>
 
 
 
