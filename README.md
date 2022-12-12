@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav firke</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <h1 align="center">About Me</h1>
-
-<h3 align="center">Solution-driven Web Developer adapts contributing to a highly collaborative work <br/> environment and finding solutions. Proven experience developing consumer-focused <br/> Web- Site using HTML | CSS | JavaScript | Node.js and React good knowledge of <br/> the best practice for web design, and user expenses.</h3>
+<h4 align="center">Solution-driven Web Developer adapts contributing to a highly collaborative work  environment and <br/> finding solutions. Proven experience developing consumer-focused  Web- Site using HTML | CSS | <br/> JavaScript | Node.js and React good knowledge of  the best practice for web design, and user expenses.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavfirke&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavfirke" /> </p>
 
