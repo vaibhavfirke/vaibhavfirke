@@ -1,10 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Vaibhav firke</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <h1 align="center">About Me</h1>
-<h4 align="center">Solution-driven Web Developer adapts contributing to a highly collaborative work  environment and <br/> finding solutions. Proven experience developing consumer-focused  Web- Site using HTML | CSS | <br/> JavaScript | Node.js and React good knowledge of  the best practice for web design, and user expenses.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavfirke&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavfirke" /> </p>
-
+<h3 align="center">Solution-driven Web Developer adapts contributing to a highly collaborative work  environment and <br/> finding solutions. Proven experience developing consumer-focused  Web- Site using HTML | CSS | <br/> JavaScript | Node.js and React good knowledge of  the best practice for web design, and user expenses.</h3> <br/> <br/>
 
 
 
@@ -18,6 +16,8 @@
 - 📫 How to reach me **firkevaibhav11@gmail.com**
 
 - 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1MH-MBO1kywMuTFdtHArHAMQk1FPak9nO/view?usp=sharing)
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavfirke&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavfirke" /> </p>
 <br/>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavfirke" alt="vaibhavfirke" /></a> </p>
