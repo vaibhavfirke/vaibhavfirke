@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav firke</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack Web Developer from India</h3>
 <h1 align="center">About Me</h1>
 <h3 align="center">Aspiring MERN Developer adapts contributing to a highly collaborative work  environment and <br/> finding solutions. Proven experience developing consumer-focused  Web-Site using HTML | CSS | <br/> JavaScript | Node.js and React good knowledge of  the best practice for web design, and user experience.</h3> 
 <br/> <br/>
@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 Full-Stack Web Developer in **mern stack**
 
 - 👨‍💻 All of my projects are available at <a href="https://vaibhavfirke.github.io/" target="_blank">Portfollio</a>
 
